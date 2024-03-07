@@ -17,6 +17,8 @@ To install the Chat App, please follow these steps:
 OPENAI_API_KEY=your_secrit_api_key
 ```
 
+4. in the `.env.example` file, change its name by removing the `.example` extension and leaving only `.env`
+
 ## Usage
 -----
 To use the Chat App, follow these steps:
